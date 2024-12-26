@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card{
+  border: 2px solid black;
+  position: absolute;
+}
+
+.profilePic{
+  height: 40px;
+  width: 45px;
+}

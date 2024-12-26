@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+
+.card{
+  height: 10px;
+  display: contents;
+  padding: 10px;
+  text-align: center;
+}
+
+.profilePic{
+  width: 150px; /* Adjust the width */
+  height: 150px; /* Adjust the height */
+  border-radius: 50%; /* Optional: Make the image circular */
+  object-fit: cover; /* Ensure the image fits properly */
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
